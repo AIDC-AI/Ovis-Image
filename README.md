@@ -14,7 +14,7 @@ Ovis-Image
   <a href="https://github.com/AIDC-AI/Ovis-Image/blob/main/docs/Ovis_Image_Technical_Report.pdf"><img src="https://img.shields.io/badge/Paper-Tech_Report-b31b1b" alt="paper"></a>
   <a href="https://github.com/AIDC-AI/Ovis-Image"><img src="https://img.shields.io/badge/GitHub-AIDC--AI/Ovis--Image-blue?style=flat&logo=github" alt="code"></a>
   <a href="https://huggingface.co/spaces/AIDC-AI/Ovis-Image-7B"><img src="https://img.shields.io/badge/🎨_HF_Spaces-AIDC--AI/Ovis--Image--7B-lightblack" alt="demo"></a>
-  <a href="https://huggingface.co/AIDC-AI/Ovis-Image-7B"><img src="https://img.shields.io/badge/🤗_Model-AIDC--AI/Ovis-Image-7B-yellow" alt="model"></a>
+  <a href="https://huggingface.co/AIDC-AI/Ovis-Image-7B"><img src="https://img.shields.io/badge/🤗_Model-AIDC--AI/Ovis--Image--7B-yellow" alt="model"></a>
 </p>
 
 
