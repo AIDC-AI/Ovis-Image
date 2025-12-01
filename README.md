@@ -10,7 +10,7 @@ Ovis-Image
 </h1> -->
 
 <p align="center">
-  <!-- <a href="https://arxiv.org/abs/2506.23044"><img src="https://img.shields.io/badge/arXiv_paper-2506.23044-b31b1b.svg" alt="arxiv"></a> -->
+  <a href="https://arxiv.org/abs/2511.22982"><img src="https://img.shields.io/badge/arXiv_paper-2511.22982-b31b1b.svg" alt="arxiv"></a>
   <a href="https://github.com/AIDC-AI/Ovis-Image/blob/main/docs/Ovis_Image_Technical_Report.pdf"><img src="https://img.shields.io/badge/Paper-Tech_Report-b31b1b" alt="paper"></a>
   <a href="https://github.com/AIDC-AI/Ovis-Image"><img src="https://img.shields.io/badge/GitHub-AIDC--AI/Ovis--Image-blue?style=flat&logo=github" alt="code"></a>
   <a href="https://huggingface.co/spaces/AIDC-AI/Ovis-Image-7B"><img src="https://img.shields.io/badge/🎨_HF_Spaces-AIDC--AI/Ovis--Image--7B-lightblack" alt="demo"></a>
@@ -212,10 +212,10 @@ Alternatively, you can try Ovis-Image directly in your browser on [![Hugging Fac
 If you find Ovis-Image useful for your research or applications, please cite our technical report:
 
 ```bibtex
-@misc{wang2025ovis_image,
+@article{wang2025ovis_image,
   title={Ovis-Image Technical Report}, 
   author={Wang, Guo-Hua and Cao, Liangfu and Cui, Tianyu and Fu, Minghao and Chen, Xiaohao and Zhan, Pengxin and Zhao, Jianshan and Li, Lan and Fu, Bowen and Liu, Jiaqi and Chen, Qing-Guo},
-  howpublished={\url{https://github.com/AIDC-AI/Ovis-Image}},
+  journal={arXiv preprint arXiv:2511.22982},
   year={2025}
 }
 ```
