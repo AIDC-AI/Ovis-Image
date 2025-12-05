@@ -147,7 +147,8 @@ def denoise(
     _, latent_channels, latent_height, latent_width = latents.shape
 
     # create denoising schedule
-    timesteps = get_schedule(denoising_steps, latent_height * latent_width, shift=True)
+    image_seq_len = (latent_height // 2) * (latent_width // 2)
+    timesteps = get_schedule(denoising_steps, image_seq_len, shift=True)
 
     # create positional encodings
 
