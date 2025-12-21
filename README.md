@@ -46,6 +46,7 @@ Here are some examples demonstrating the capabilities of Ovis-Image.
 
 ## 🚀 News
 
+- [2025/12/19] 🔥 Ovis-Image has been merged into [`vllm-omni`](https://github.com/vllm-project/vllm-omni/pull/263)!
 - [2025/12/7] 🔥 Ovis-Image has been merged into [`stable-diffusion.cpp`](https://github.com/leejet/stable-diffusion.cpp/blob/master/docs/ovis_image.md)!
 - [2025/12/3] 🔥 Ovis-Image has been merged into [`diffusers`](https://github.com/huggingface/diffusers/pull/12740)!
 - [2025/12/2] 🔥 Ovis-Image has been merged into [`ComfyUI`](https://github.com/comfyanonymous/ComfyUI/pull/11030)!
